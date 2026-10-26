@@ -21,9 +21,11 @@ This intensive 4-week program is structured into two core phases:
    - **Week 3:** Deep Learning, Vision & NLP Domain Models for **Attenomy Cortex**.
    - **Week 4:** Production Packaging, ONNX Quantization, FastAPI Microservices & Final Capstone Defense.
 
-Official weekly roadmap specifications are available in the [`roadmaps/`](roadmaps/) directory:
+Official weekly roadmap specifications and learning guides are available in the [`roadmaps/`](roadmaps/) directory:
 - [Week 1 Roadmap PDF](roadmaps/Attenomy_ML_Internship_Week_1_Foundations_and_Data_Engineering.pdf)
+- [Week 1 Learning Materials PDF](roadmaps/Attenomy_ML_Internship_Week_1_Learning_Materials.pdf)
 - [Week 2 Roadmap PDF](roadmaps/Attenomy_ML_Internship_Week_2_Classical_ML_and_Anti_Fraud_Pipeline.pdf)
+- [Week 2 Learning Materials PDF](roadmaps/Attenomy_ML_Internship_Week_2_Learning_Materials.pdf)
 - [Week 3 Roadmap PDF](roadmaps/Attenomy_ML_Internship_Week_3_Deep_Learning_and_Domain_Models.pdf)
 - [Week 4 Roadmap PDF](roadmaps/Attenomy_ML_Internship_Week_4_Productionization_and_Capstone.pdf)
 
