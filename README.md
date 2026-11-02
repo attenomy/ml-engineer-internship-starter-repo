@@ -27,7 +27,9 @@ Official weekly roadmap specifications and learning guides are available in the 
 - [Week 2 Roadmap PDF](roadmaps/Attenomy_ML_Internship_Week_2_Classical_ML_and_Anti_Fraud_Pipeline.pdf)
 - [Week 2 Learning Materials PDF](roadmaps/Attenomy_ML_Internship_Week_2_Learning_Materials.pdf)
 - [Week 3 Roadmap PDF](roadmaps/Attenomy_ML_Internship_Week_3_Deep_Learning_and_Domain_Models.pdf)
+- [Week 3 Learning Materials PDF](roadmaps/Attenomy_ML_Internship_Week_3_Learning_Materials.pdf)
 - [Week 4 Roadmap PDF](roadmaps/Attenomy_ML_Internship_Week_4_Productionization_and_Capstone.pdf)
+- [Week 4 Learning Materials PDF](roadmaps/Attenomy_ML_Internship_Week_4_Learning_Materials.pdf)
 
 ---
 
